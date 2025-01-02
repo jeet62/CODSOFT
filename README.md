@@ -1,2 +1,3 @@
 # CODSOFT
-For all my task/projects for codsoft internship
+my task/projects for codsoft internship
+creating my own personal portfolio Website
